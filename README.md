@@ -1,5 +1,5 @@
 # Investment-Recommendation-System
-A Streamlit-based stock investment recommendation tool that suggests investment plans based on machine learning predictions of stock prices. It categorizes plans into Conservative, Balanced, and Aggressive, analyzing established and emerging Indian stocks.
+A  Personalized Stock investment recommendation tool that suggests investment plans based on machine learning predictions of stock prices. It categorizes plans into Conservative, Balanced, and Aggressive, analyzing established and emerging Indian stocks.
 # 📈 Investment Recommendation System
 
 The **Investment Recommendation System** is a machine-learning-powered tool that helps investors make informed stock market decisions. Using **Yahoo Finance (yfinance)** data and **linear regression modeling**, this tool predicts stock prices and generates personalized investment plans categorized as **Conservative, Balanced, and Aggressive**.
